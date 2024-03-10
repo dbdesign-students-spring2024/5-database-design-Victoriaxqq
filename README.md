@@ -72,4 +72,6 @@
 ![My image](./images/Image.png)
 
 ## Changes
-I split the table into six tables to avoid 
+1. I seperate columns related to "professor_id", "assignment_id", "due_date " and "grade" into different tables.
+2. Since some information such as "due_date" depends on sections, I make up a table stored information relevant to sections.
+3. Since "grade" depends on both "assignment_id" and "student_id", in order to have a primary key in the table about "grade", I combine them to get a unique key called "combined_id".
