@@ -42,13 +42,13 @@
 
 ### Combined id Table
 "combined_id" is the primary key.
-| combined_id | student_id | assignment_id｜
-|-------------|------------|--------------｜
-| 1           | 1          |   1          ｜
-| 2           | 7          |   2          ｜
-| 3           | 3          |   1          ｜
-| 4           | 1          |   5          ｜
-| 5           | 2          |   4          ｜
+| combined_id | student_id | assignment_id |
+|-------------|------------|---------------|
+| 1           | 1          | 1             |
+| 2           | 7          | 2             |
+| 3           | 3          | 1             |
+| 4           | 1          | 5             |
+| 5           | 2          | 4             |
 
 ### Due Date Table
 "section_id" is the primary key.
