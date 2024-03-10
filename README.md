@@ -42,7 +42,7 @@
 
 ### Combined id Table
 "combined_id" is the primary key.
-| combined_id | student_id   | assignment_id｜
+| combined_id | student_id | assignment_id｜
 |-------------|------------|--------------｜
 | 1           | 1          |   1          ｜
 | 2           | 7          |   2          ｜
